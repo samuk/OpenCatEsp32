@@ -1,6 +1,19 @@
 # OpenCatESP32
 
-OpenCat code running on BiBoard, an ESP32 controller. 
+OpenCat code running on  an ESP32 controller. 
+
+# Hardware 
+3d parts
+https://www.thingiverse.com/thing:4015171
+
+Servo
+https://www.tindie.com/products/alexchu/zio-16-servo-controller-qwiic/
+
+Qwiic 6050
+https://www.adafruit.com/product/3886
+
+ESP32
+https://www.adafruit.com/product/5426
 
 [User manual](https://docs.petoi.com/arduino-ide/upload-sketch-for-biboard)
 
