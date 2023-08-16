@@ -21,6 +21,12 @@ https://www.adafruit.com/product/5426
 
 ## Configuration:
 
+The code from this repo + MicroROS with wifi transport.
+https://github.com/hippo5329/linorobot2_hardware#installation
+
+ROS2 Quad
+https://github.com/reubenstr/zuko/tree/main/quad_ws
+
 ESP32 Dev Module
 
 * Upload Speed: 921600
